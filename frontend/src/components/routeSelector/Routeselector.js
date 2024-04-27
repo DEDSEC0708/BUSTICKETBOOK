@@ -48,6 +48,8 @@ export default function Routeselector() {
                         <option>FROM</option>
                         <option>Chennai</option>
                         <option>Bangalore</option>
+                        <option>Tirupati</option>
+                        <option>Vijayawada</option>
                     </select>
                     <select name="ad_account_selected" data-style="btn-new" class="selectpicker" onChange={e => { handleToCity(e) }}>
                         <option>TO</option>

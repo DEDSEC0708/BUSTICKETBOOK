@@ -138,9 +138,9 @@ h1 span {
 }
 
 .message {
-    background-color: rgba(255, 255, 255, 0.062);
+    background-color: rgba(130, 230, 255, 1)90%;
     border-radius:5px;
-    color: #333;
+    color: #ece1e1;
     display: block;
     font-weight: 500;
     overflow: hidden;

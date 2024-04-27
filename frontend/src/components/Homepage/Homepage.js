@@ -9,7 +9,7 @@ export default function Homepage({ history }) {
     return (
         <div className='container maint-cnt'>
             <div className="header-nav">
-                <span className="mytext1"> Unique Travels </span>
+                <span className="mytext1">BlueStar  BusTicket Booking</span>
             </div>
             
             <div className="">
@@ -18,11 +18,11 @@ export default function Homepage({ history }) {
             <div className="container">
                 <div className="slogan">
                     <h1>
-                        <span>always Travel</span>
+                    <span></span>
                         <div className="message">
-                            <div className="word1">Uniquely</div>
-                            <div className="word2">Safely</div>
-                            <div className="word3">with a smile</div>
+                        <div className="word1">Always</div>
+                            <div className="word2">Travel</div>
+                            <div className="word3">Safely</div>
                         </div>
                     </h1>
                 </div>
@@ -37,7 +37,7 @@ export default function Homepage({ history }) {
                         </defs>
                         <rect x="5" y="5" rx="25" fill="none" stroke="url(#grad1)" width="266" height="50"></rect>
                     </svg>
-                    <span >Get Started!</span>
+                    <span >Book Now!</span>
                 </a>
             </div>
         </div>
